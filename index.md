@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Flocker Social Media Site 
+title: LitConnect
 search_exclude: true
-description: Login and explore our social media hub for everything DNHS 
+description: Login and explore Moderators Choices of Books and have disscussions based on the Moderators Review!
 hide: true
 menu: nav/home.html
 ---
